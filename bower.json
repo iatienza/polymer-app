@@ -1,0 +1,26 @@
+{
+  "name": "Polymer Project",
+  "description": "Building a web application with Polymer and Material Design",
+  "main": "",
+  "authors": [
+    "iatienza <ibai.atienza@gmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [
+    "es6",
+    "globals",
+    "node"
+  ],
+  "dependencies":{
+    "polymer": "Polymer/polymer#^1.0.3"
+  },
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
